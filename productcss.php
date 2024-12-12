@@ -197,8 +197,8 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST' && isset($_POST['add_to_cart'])) {
                     <ul class="nav-links">
                         <li><a href="index.php" class="colour-text">Home</a></li>
                         <li><a href="about_us.html" class="colour-text">About Us</a></li>
-                        <li><a href="productcss.php" class="colour-text">Products</a></li>
-                        <li><a href="cart1.php" class="colour-text">Cart</a></li>
+                        <!-- <li><a href="productcss.php" class="colour-text">Products</a></li> -->
+                        <li><a href="cart2.php" class="colour-text">Cart</a></li>
                         
                         <!-- <li><a href="gallery.html" class="colour-text">Gallery</a></li> -->
                     </ul>

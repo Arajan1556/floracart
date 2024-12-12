@@ -21,7 +21,7 @@ session_start(); // Start the session to access session variables
                     <ul class="nav-links">
                         <li><a href="about_us.html" class="colour-text">About Us</a></li>
                         <li><a href="productcss.php" class="colour-text">Product</a></li>
-                        <li><a href="cart1.php" class="colour-text">Cart</a></li>
+                        <li><a href="cart2.php" class="colour-text">Cart</a></li>
                         
                         <!-- <li><a href="#" class="colour-text">Gallery</a></li> -->
                     </ul>
